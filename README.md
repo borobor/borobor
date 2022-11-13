@@ -8,7 +8,7 @@
 <div align="center">
   
 ## Tools & Languages:<br />
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,webpack,html,css,js)](https://skillicons.dev)
 
 ## Currently learning:<br />
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql)](https://skillicons.dev) 
