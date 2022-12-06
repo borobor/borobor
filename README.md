@@ -15,6 +15,10 @@
   
 </div>
 
- ## My stats: 
+<div align="center">
+  
+## My stats: 
 ![Borobor's GitHub stats](https://github-readme-stats.vercel.app/api?username=borobor&show_icons=true&hide=issues,contribs&theme=transparent) <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borobor&layout=compact&theme=transparent)](https://github.com/borobor/github-readme-stats)
+  
+</div>
