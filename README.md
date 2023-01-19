@@ -11,14 +11,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,webpack,html,css,js,mysql)](https://skillicons.dev)
 
 ## Currently learning:<br />
-[![My Skills](https://skillicons.dev/icons?i=react,wordpress,php)](https://skillicons.dev) 
-  
-</div>
-
-<div align="center">
-  
-## My stats: 
-![Borobor's GitHub stats](https://github-readme-stats.vercel.app/api?username=borobor&show_icons=true&hide=issues,contribs&theme=transparent) <br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borobor&layout=compact&theme=transparent)](https://github.com/borobor/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next)](https://skillicons.dev) 
   
 </div>
